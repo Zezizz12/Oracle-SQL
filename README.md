@@ -1,1 +1,350 @@
 # Oracle-SQL
+
+Curso de Oracle SQL com duração de 10 horas, feito atravez da plataforma on-line da Udemy. 
+
+Durante o curso foram abordadas as seguintes lições : 
+
+-Visão Geral do Oracle Database 19c
+-Conceito de banco de dados relacional
+-Entendendo Oracle RDBMS
+-Definição de Banco de Dados Relacional
+-Modelo de dados
+-Relacionando Multiplas Tabelas
+-Terminologia de banco de dados relacional
+-Introdução ao SQL
+-Características do SQL
+-Ferramentas Oracle
+-Ferramentas de outros fornecedores
+-Outras Ferramentas Oracle que processam comandos SQL
+-Produtos Oracle que utilizam SQL
+-Documentação Oracle SQL
+-Outras linguagens
+-Oracle SQL Versus ANSI SQL
+-Comandos SQL - DML
+-Comandos SQL - DDL
+-Comandos SQL - DCL
+-Comandos SQL – Controle de Transação
+-O Schema HR – Tabelas utilizadas no curso
+-Consultando dados utilizando o comando SQL SELECT
+-Capacidades do comando SQL SELECT
+-Exibindo a estrutura da tabela
+-Utilizando o comando DESCRIBE
+-Comando SELECT básico
+-Selecionando todas as colunas da Tabela
+-Selecionando colunas específicas
+-Escrevendo comandos SQL
+-Alinhamento de colunas em cabeçalhos
+-Expressões Aritméticas
+-Utilizando operadores aritméticos
+-Regras de Precedência de Operadores
+-Utilizando parênteses para alterar a precedência
+-Entendo o valor Nulo (NULL)
+-Utilizando Valores Nulos em expressões aritméticas
+-Alias de Coluna
+-Utilizando Alias de Coluna
+-Operador de concatenação
+-Utilizando Operador de concatenação e Strings de caracteres
+-Operador alternativo para aspas
+-Utilizando Operador alternativo para aspas
+-Linhas duplicadas
+-Utilizando DISTINCT para eliminar linhas duplicadas
+-Restringindo e Ordenando Dados
+-Restringindo as linhas que serão retornadas
+-Cláusula WHERE
+-Utilizando a cláusula WHERE
+-Strings de caractere e datas
+-Utilizando Strings de caractere na cláusula WHERE
+-Utilizando Strings de caractere com datas na cláusula WHERE
+-Utilizando operadores de comparação na cláusula WHERE
+-Selecionando faixas de valores utilizando o operador BETWEEN
+-Selecionando valores dentro de uma lista utilizando o operador IN
+-Selecionando valores por coincidência com padrões utilizando o operador LIKE
+-Utilizando o operador LIKE
+-Combinando caracteres curinga (wildcards)
+-Combinando o uso de vários caracteres curinga
+-Comparações com valor NULO (NULL)
+-Utilizando a expressão de comparação IS NULL
+-Definindo Condições utilizando Operadores Lógicos
+-Utilizando o operador AND
+-Utilizando o operador OR
+-Utilizando o operador NOT
+-Regras de Precedência
+-Sobrepondo as regras de Precedência
+-Utilizando parênteses para sobrepor as regras de precedência
+-Utilizando a cláusula ORDER BY
+-Utilizando a cláusula ORDER BY – Ordem Ascendente
+-Utilizando a cláusula ORDER BY – Ordem Descendente
+-Utilizando a cláusula ORDER BY – Referenciando ALIAS
+-Utilizando a cláusula ORDER BY – Referenciando a Posição
+-Utilizando a cláusula ORDER BY – Múltiplas colunas ou expressões
+-Variáveis de Substituição
+-Utilizando Variáveis de Substituição - &
+-Utilizando Variáveis de Substituição - &&
+-Variáveis de substituição com valores tipo Character e Date
+-Utilizando o comando DEFINE
+-Utilizando Funções Single Row
+-Tipos de Funções SQL
+-Funções SQL Single Row
+-Funções tipo Character
+-Funções de conversão Maiúsculo & Minúsculo
+-Funções de Manipulação de Caracteres
+-Funções tipo NUMBER
+-Utilizando a Função ROUND
+-Utilizando a Função TRUNC
+-Utilizando a Função MOD
+-Outras Funções tipo NUMBER
+-Funções tipo DATE - Trabalhando com Datas
+-Funções tipo DATE - Utilizando a função SYSDATE
+-Cálculos com Datas
+-Outras Funções tipo DATE
+-Utilizando Funções de Conversão e Expressões Condicionais
+-Tipos de Conversão
+-Conversão Implícita de Tipo de Dados
+-Conversão Explícita de Tipo de Dados
+-Utilizando a Função TO_CHAR com Datas
+-Elementos de modelo de formatação de Data
+-Outros Elementos de modelo de formatação de Data
+-Utilizando a Função TO_CHAR com Números
+-Utilizando a Função TO_NUMBER
+-Utilizando a Função TO_DATE
+-Funções Aninhadas
+-Utilizando Funções Aninhadas
+-Funções Genéricas
+-Função NVL
+-Utilizando a Função NVL
+-Utilizando a Função COALESCE
+-Utilizando a Função NVL2
+-Utilizando a Função NULLIF
+-Expressões Condicionais
+-Expressão CASE
+-Função DECODE
+-Utilizando a Função DECODE
+-Agregando dados utilizando Funções de Grupo
+-Princípais Funções de Grupo
+-Utilizando Funções de Grupo
+-Utilizando as Funções AVG e SUM
+-Utilizando as Funções MIN e MAX
+-Utilizando a Função COUNT
+-Utilizando a Função COUNT com DISTINCT
+-Funções de Grupo e valores NULOS
+-Tratamento de NULOS em Funções de Grupo
+-Criado Grupos utilizando a Cláusula GROUP BY
+-Utilizando a cláusula Group by com mais de uma Coluna ou Expressão
+-Consultas incorretas utilizando Funções de Grupo
+-Corrigindo consultas incorretas utilizando Funções de Grupo
+-Restringindo Grupos utilizando a cláusula HAVING
+-Sequência Lógica
+-Aninhando Funções de Grupo
+-Exibindo dados a partir de Múltiplas Tabelas
+-Tipos de Joins compatíveis com SQL ANSI 1999
+-Qualificando nomes de colunas ambíguos
+-Utilizando Prefixos Coluna com Nomes de Tabela
+-Utilizando Alias de Tabela
+-Natural Joins – SQL ANSI 1999
+-Utilizando Natural Joins
+-JOIN com a Cláusula USING – SQL ANSI 1999
+-Utilizando JOIN com a Cláusula USING
+-Join com a Cláusula ON – SQL ANSI 1999
+-Utilizando Join com a Cláusula ON
+-Incluindo condições adicionais a condição de Join na cláusula WHERE
+-Incluindo condições adicionais a condição de Join utilizando AND
+-Self Join Utilizando a Cláusula ON
+-Nonequijoins
+-Utilizando Nonequijoins
+-INNER Join
+-Utilizando INNER Join
+-OUTER Joins
+-LEFT OUTER Join
+-RIGHT OUTER Join
+-FULL OUTER Join
+-Produto Cartesiano
+-Gerando um Produto Cartesiano utilizando Cross Join
+-Joins utilizando sintaxe Oracle
+-Tipos de Joins utilizando sintaxe Oracle
+-Equijoin utilizando Sintaxe Oracle
+-Joins entre várias tabelas utilizando Sintaxe Oracle
+-Incluindo condições adicionais a condição de Join utilizando AND
+-NonequiJoin Utilizando Sintaxe Oracle
+-Outer Join Utilizando Sintaxe Oracle
+-Self-join Utilizando Sintaxe Oracle
+-Outer Join e Self Join Utilizando Sintaxe Oracle
+-Produto Cartesiano
+-Utilizando Sub-Consultas
+-Sub-Consultas Single-Row
+-Utilizando uma Sub-Consulta para resolver um problema
+-Sintaxe de Sub-Consulta
+-Comportamento da execução de Sub-Consultas
+-Diretrizes para Sub-Consultas
+-Sub-Consultas Single-Row
+-Operadores de comparação Single-row
+-Utilizando Sub-Consultas Single-Row
+-Utilizando Sub-consultas na Cláusula HAVING
+-Erros utilizando Sub-consultas Single-row
+-O que ocorre quando a Sub-Consulta retorna nenhuma linha?
+-Sub-Consultas Multiple-row
+-Operadores de comparação Multiple-row
+-Utilizando operador IN em Sub-consultas Multiple-Row
+-Utilizando operador NOT IN em Sub-consultas Multiple-Row
+-Utilizando operador ANY em Sub-consultas Multiple-Row
+-Utilizando operador ALL em Sub-consultas Multiple-Row
+-Cuidados com Valores Nulos em uma Sub-consulta com Operador IN
+-Cuidados com Valores Nulos em uma Sub-consulta com Operador IN
+-Cuidados com Valores Nulos em uma Sub-consulta com Operador NOT IN
+-Utilizando operadores EXISTS e NOT EXISTS
+-Utilizando operador EXISTS
+-Utilizando operador NOT EXISTS
+-Utilizando Sub-consulta correlacionada
+-Sub-Consulta Correlacionada
+-Utilizando Sub-consultas Multiple-Column
+-Utilizando Sub-consultas na Cláusula FROM
+-Operadores SET
+-Diretrizes para utilização de operadores SET
+-Utilizando a cláusula ORDER BY em SELECTs com operadores SET
+-Utilizando o operador UNION
+-Utilizando o operador UNION ALL
+-Utilizando operador INTERSECT
+-Utilizando operador MINUS
+-Cuidados com os tipos de dados na lista de colunas ou expressões do SELECT
+-Comandos DML Manipulando dados
+-DML - Data Manipulation Language
+-Transação
+-INSERT - Inserindo linhas em uma tabela
+-Inserindo novas linhas
+-Utilizando o Comando INSERT
+-Inserindo Linhas com valores NULOS – Método Explícito
+-Inserindo Linhas com valores NULOS – Método Implícito
+-Inserindo valores especiais retornados de Funções
+-Insert utilizando data e hora específicas
+-Utilizando variáveis de Substituição
+-Inserindo linhas a partir de uma Sub-consulta
+-UPDATE – Modificando linhas existentes na tabela
+-Utilizando o comando UPDATE
+-Utilizando o comando UPDATE com Sub-consultas
+-Utilizando o comando DELETE
+-Transações de banco de dados
+-Transações de banco de dados: Início e Fim
+-Vantagens dos comandos COMMIT e ROLLBACK
+-SAVEPOINT - Desfazendo mudanças até um marcador
+-Utilizando o comando SAVEPOINT
+-Processamento Implícito de Transação
+-Estado dos Dados antes do COMMIT ou ROLLBACK
+-Estado dos Dados depois do ROLLBACK
+-Utilizando o comando ROLLBACK
+-Utilizando o comando COMMIT
+-Estado dos dados depois do COMMIT
+-ROLLBACK a nível de comando
+-Leitura Consistente
+-Cláusula FOR UPDATE no comando SELECT
+-Comandos DDL
+-Criando e Gerenciando Tabelas
+-Principais Objetos do Banco de Dados Oracle
+-Regras de Nomenclatura
+-O comando CREATE TABLE
+-Referenciando Tabelas de outros Usuários
+-Create Table - Opção DEFAULT
+-Criando Tabelas
+-Consultando a Estrutura da Tabela
+-Principais Tipos de Dados
+-Consultando as Tabelas existentes pelo Dicionário de Dados
+-Criando uma Tabela utilizando uma Sub-consulta
+-Comando TRUNCATE TABLE
+-Comando DROP TABLE
+-Alterando a Estrutura da Tabela
+-Comando ALTER TABLE
+-ALTER TABLE – Adicionando colunas
+-ALTER TABLE – Removendo uma coluna
+-ALTER TABLE – Modificando colunas
+-ALTER TABLE – Renomeando uma coluna
+-ALTER TABLE – READ ONLY
+-ALTER TABLE – READ WRITE
+-Criando e Gerenciando Constraints
+-Tipos de Constraints
+-CONSTRAINTS - Diretrizes
+-Definindo Constraints a nível de Coluna
+-Definindo Constraints a nível de Tabela
+-Constraint NOT NULL
+-Definindo Constraint NOT NULL
+-Constraint PRIMARY KEY
+-Definindo Constraint PRIMARY KEY a nível de Coluna
+-Definindo Constraint PRIMARY KEY a nível de Tabela
+-Constraint UNIQUE
+-Definindo Constraint UNIQUE a nível de Coluna
+-Definindo Constraint UNIQUE a nível de Tabela
+-Constraint FOREIGN KEY
+-Definindo Constraint FOREIGN KEY a nível de Coluna
+-Definindo Constraint FOREIGN KEY a nível de Tabela
+-FOREIGN KEY – Regras de deleção
+-FOREIGN KEY – DEFAULT (NO ACTION)
+-FOREIGN KEY – ON DELETE CASCADE
+-FOREIGN KEY – ON DELETE SET NULL
+-Constraint CHECK
+-Definindo Constraint CHECK a nível de Coluna
+-Definindo Constraint CHECK a nível de Tabela
+-Violando Constraints - Erro
+-Violando Constraints – Corrigindo Erro
+-Tipos de Constraints
+-Consultando Constraints pelo Dicionário de Dados
+-Gerenciando Constraints
+-Removendo uma Constraint a uma Tabela
+-Adicionando uma Constraint a uma Tabela
+-Desabilitando uma Constraint
+-Habilitando uma Constraint
+-Consultando Constraints pelo Dicionário de Dados
+-Criando e Gerenciando Visões
+-O que é uma Visão?
+-Vantagens de Utilizar Visões
+-Tipos de Visões
+-Criando uma Visão
+-Recuperando dados utilizando uma Visão
+-Criando uma Visão Complexa
+-Regras para executar operações DML através de uma Visão Simples
+-Utilizando a Cláusula CHECK OPTION
+-Impedindo operações DML através da Visão
+-Utilizando a Cláusula READ ONLY
+-Removendo uma Visão
+-Criando e Gerenciando Sequencias
+-O que é uma Sequencia?
+-Criando uma Sequencia (Sequence)
+-Consultando Sequencias do pelo Dicionario de Dados
+-Pseudocolunas NEXTVAL e CURRVAL
+-Recuperando próximo valor da Sequencia
+-Recuperando o valor corrente da Sequencia
+-Recriando uma Sequencia
+-Utilizando uma Sequencia
+-Colocando valores da Sequencia em Cache
+-Buracos na numeração gerada pela Sequencia
+-Modificando uma Sequencia
+-Diretrizes para modificar uma Sequencia
+-Criando e Gerenciando Índices
+-O que é um Indice?
+-Como os Índices são criados?
+-Criando um Indice - Sintaxe
+-Criando um Índice Não Único Simples
+-Criando um Índice Não Único Composto
+-Reconstruindo e Reorganizando um Índice
+-Consultando Índices pelo Dicionário de Dados
+-Removendo um Índice - Sintaxe
+-Removendo um Índice
+-Criando Sinônimos
+-O que é um Sinônimo?
+-Uso de Sinônimos
+-Criando Sinonimos Privados
+-Utilizando Sinônimos
+-Removendo Sinônimos
+-Criando Sinônimos Públicos para Tabelas em outro Schema
+-Utilizando Sinônimos Públicos
+-Removendo Sinônimos Públicos
+-Utilizando o SQL*PLUS
+-Conectando ao Oracle utilizando o SQL*PLUS
+-Executando o comando DESC
+-Executando um comando SQL
+-Listando o SQL Buffer
+-Editando o SQL Buffer do SQL*PLUS
+-Executando o comando do SQL Buffer
+-Salvando o comando do SQL Buffer em um arquivo Script de comandos
+-Editando o arquivo Script de Comandos
+-Executando o arquivo Script de Comandos
+-Para ir para o Sistema Operacional
+-Direcionando a saida da execução do comando para um arquivo SPOOL
+-Utilizando o Comando ACCEPT
+-Variáveis de ambiente do SQL*PLUS
